@@ -3,4 +3,5 @@ pandas
 folium
 requests
 http.client
+ipywidgets
 voila
